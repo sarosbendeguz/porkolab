@@ -235,11 +235,13 @@ a:hover, a:active, a:focus {
 }
 
 .navbar-default .navbar-brand {
+  font-size: 26px;
   color: #555;
-  font-family: 'Merriweather', serif;
+  font-family: 'Levenim MT', serif;
+  font-style: italic;
   font-weight: bold;
-  text-transform: uppercase;
-  letter-spacing: 4px;
+  text-transform: ;
+  letter-spacing: 3px;
   margin: 0;
 }
 
