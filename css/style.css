@@ -297,6 +297,12 @@ a:hover, a:active, a:focus {
 /*---------------------------------------
     Home section              
 -----------------------------------------*/
+.infoszoveg {
+  font-size: 25px;
+  font-family: Courier New, serif;
+  font-style: italic;
+  font-weight: normal;
+}
 
 #home {
     background-size: cover;
